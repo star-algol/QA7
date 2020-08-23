@@ -1,0 +1,17 @@
+body {
+    background: rgb(26, 26, 45);
+    color: #6278b8;
+    padding: 10px ;
+}
+img {
+    width: 100%;
+    height: 20%;
+}
+h1 {
+    color: #788eb8;
+    border-bottom: 5px solid #554848;
+}
+table, td {
+   border: 1px dashed #7243b8;
+    width: 50%;
+}
