@@ -1,0 +1,19 @@
+h1  {
+    background: orange;
+}
+p{
+    background: yellow;
+}
+.success {
+    background: lawngreen;
+padding: 50px;
+}
+
+.super-title {
+    font-size: 80px;
+}
+
+div .success.super-title {
+    background: blueviolet;
+    font-size: 10px;
+}
